@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Đồ Án Môn Học</string>
+    <string name="text_username">Tài Khoản</string>
+    <string name="text_Pass">Mật Khẩu</string>
+    <string name="text_btn_Login">Đăng nhập</string>
+    <string name="text_btn_FgPass">Quên Mật Khẩu</string>
+    <string name="text_btn_Register">Đăng Ký</string>
+    <string name="text_Email">Email</string>
+    <string name="text_btn_fgPass">Lấy lại mật khẩu</string>
+    <string name="text_Lg_Google">Đăng nhập với Google</string>
+    <string name="text_Lg_Fb">Đăng nhập với Facebook</string>
+    <string name="text_config_pass">Xác nhận mật khẩu</string>
+    <string name="txt_name_player">Tạ Quốc Bảo</string>
+    <string name="txt_credit">2000</string>
+    <string name="text_btn_info">Quản lý tài khoản</string>
+    <string name="text_btn_newgame">Trò chơi mới</string>
+    <string name="text_btn_history">Lịch sử chơi</string>
+    <string name="text_btn_ranking">Bảng xếp hạng</string>
+    <string name="text_btn_buy_credit">Mua credit</string>
+</resources>
